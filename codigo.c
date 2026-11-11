@@ -4,7 +4,7 @@ int main()
 {
     int x;
     x=0;
-    printf("Holamundo");
+    
     if(x==0)
     {
         printf("%d",x);
